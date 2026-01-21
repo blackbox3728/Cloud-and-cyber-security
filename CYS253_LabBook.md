@@ -1694,77 +1694,6 @@ Establish persistence, exfiltrate data, and cover tracks after compromise.
 
 ---
 
-# **ASSESSMENT & EVALUATION RUBRIC**
-
-## **Practical Lab Evaluation (Each Lab)**
-
-| Criteria | Excellent (5) | Good (4) | Satisfactory (3) | Poor (2) | Fail (0-1) |
-|----------|---------------|---------|------------------|----------|----------|
-| **Objective Achievement** | All objectives clearly met with all tasks completed | Most objectives met, minor tasks incomplete | Basic objectives met, significant gaps | Few objectives met | Objectives not met |
-| **Technical Execution** | Tools used correctly, proper methodology, efficient workflow | Generally correct tool usage, mostly proper methodology | Basic tool usage, some methodological issues | Improper tool usage, significant errors | Unable to execute |
-| **Documentation** | Comprehensive, clear, well-organized, all screenshots included | Good documentation, most screenshots included | Basic documentation, some screenshots missing | Poor documentation, sparse information | Minimal/no documentation |
-| **Analysis & Findings** | Thorough analysis, insightful observations, proper conclusions | Good analysis, relevant observations, sound conclusions | Basic analysis, adequate observations | Limited analysis, weak observations | No meaningful analysis |
-| **Security Recommendations** | Detailed, practical, prioritized recommendations | Good recommendations, mostly practical | Basic recommendations, some impractical suggestions | Few recommendations, unclear priorities | No recommendations |
-| **Ethical Compliance** | Strict adherence to ethical guidelines, explicit authorization, proper lab isolation | Good ethical practices, mostly proper procedures | Adequate ethical awareness, minor procedural lapses | Poor ethical practices, significant concerns | Unethical behavior |
-
-## **Viva-Voce Assessment**
-
-| Aspect | Score |
-|--------|-------|
-| Understanding of lab concepts | /2 |
-| Explanation of procedure and results | /2 |
-| Handling of troubleshooting questions | /2 |
-| Ethical and legal awareness | /2 |
-| Tool knowledge and alternative approaches | /2 |
-
-**Total Viva Score**: /10 (converted to /10)
-
-## **Final Lab Book Assessment**
-
-- **Content Completeness**: 20%
-- **Technical Accuracy**: 25%
-- **Documentation Quality**: 20%
-- **Practical Execution**: 20%
-- **Analysis and Recommendations**: 15%
-
-**Final Score** = (CE: 15 marks) + (Practical Exam: 25 marks) + (Viva: 10 marks) = **50 marks total**
-
----
-
-# **GUIDELINES FOR STUDENTS**
-
-## **Lab Book Preparation**
-
-1. **Before Lab Session**:
-   - Read all procedures carefully
-   - Understand objectives and learning outcomes
-   - Gather all required tools and resources
-   - Review prerequisites
-
-2. **During Lab Session**:
-   - Follow procedures step-by-step
-   - Take detailed notes and screenshots
-   - Record observations in real-time
-   - Ask clarifying questions
-
-3. **After Lab Session**:
-   - Complete all documentation
-   - Analyze findings
-   - Answer all questions
-   - Prepare for viva-voce
-
-## **Common Lab Errors to Avoid**
-
-1. ❌ Testing on systems without authorization
-2. ❌ Using production environments for testing
-3. ❌ Poor documentation and note-taking
-4. ❌ Not maintaining ethical boundaries
-5. ❌ Incomplete procedures or tasks
-6. ❌ Failing to backup evidence and logs
-7. ❌ Ignoring security and privacy concerns
-8. ❌ Insufficient analysis and recommendations
-
----
 
 # **REFERENCES & RESOURCES**
 
@@ -1798,29 +1727,6 @@ Establish persistence, exfiltrate data, and cover tracks after compromise.
 
 ---
 
-# **APPENDIX: LAB RECORD TEMPLATE**
-
-## **Lab Report Header**
-```
-Institution: Savitribai Phule Pune University
-Department: Computer Science & IT
-Program: S.Y.B.Sc. Cyber Security
-Semester: IV
-Academic Year: 2025-2026
-
-LAB REPORT: CYS-253-MJ-P
-
-Lab Number: ____
-Lab Title: ____
-Date of Experiment: ____
-Student Name: ____
-Roll Number: ____
-Signature: ____
-
-Instructor Name: ____
-Signature: ____
-Date: ____
-```
 
 ## **Standard Lab Report Structure**
 

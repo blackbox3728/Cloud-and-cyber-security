@@ -1748,15 +1748,5 @@ POLICY Example:
 
 ---
 
-## **Chapter 1 ends here. Remaining chapters will follow this same comprehensive format with:**
-- Learning outcomes aligned to NAAC & UGC
-- Detailed explanations in simple language
-- Multiple real-world examples (including Indian cases)
-- Visual diagrams and flowcharts
-- Step-by-step procedures
-- Self-assessment questions
-- Practical exercises
-- References to books and real incidents
 
-Each chapter will be 20-30 pages of detailed, student-friendly content covering all syllabus requirements while being uniquely different from traditional textbooks.
 
